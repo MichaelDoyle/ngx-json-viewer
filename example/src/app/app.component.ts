@@ -15,7 +15,7 @@ export class AppComponent {
       'value3'
     ],
     'owner': null,
-    'simple obect': {
+    'simple object': {
       'simple key': 'simple value',
       'numbers': 1234567,
       'simple list': [
@@ -32,7 +32,7 @@ export class AppComponent {
           ],
         },
       },
-      'simple obect': {
+      'simple object': {
         'key1': 'value1',
         'key2': 22222,
         'key3': 'value3'
